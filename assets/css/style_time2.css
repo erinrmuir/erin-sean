@@ -147,7 +147,7 @@ b:hover, b:active, b:focus {
   position: top
 }
 .timeline-item:nth-child(10) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../img/roadtrip.jpg") top 80% center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../img/roadtrip.jpg") top 70% center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(11) .timeline-img-header {
