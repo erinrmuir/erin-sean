@@ -37,7 +37,9 @@ h2 {
   @media (max-width: 600px) {
     h2 {
       font-size: 18px; } }
-
+video[poster] {
+	object-fit: cover;
+}
 .maine-menu {
   position: absolute;
   top: 20px; }
