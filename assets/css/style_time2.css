@@ -145,7 +145,7 @@ b:hover, b:active, b:focus {
   background-size: cover;
 }
 .timeline-item:nth-child(8) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../img/newyear.gif") top 18% center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../img/newyear2020.jpg") top 18% center no-repeat;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
